@@ -38,11 +38,11 @@
 ### 3️⃣ Set Up Environment : API_KEY=your_openweathermap_api_key_here
 ---
 
-##🌍 API Info
+## 🌍 API Info
 - Powered by the OpenWeatherMap API
 - You’ll need to register for a free API key and paste it in your .env file.
 
-##💡 Future Enhancements
+## 💡 Future Enhancements
 
 . ⏰ Hourly & Weekly forecast
 
@@ -54,7 +54,7 @@
 ---
 
 ## 👨‍💻 Author
-. Param Sangani
+- Param Sangani
 ---
 
 
