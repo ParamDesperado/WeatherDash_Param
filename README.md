@@ -27,7 +27,7 @@
 | 🌧️ Rain  | Falling droplets |
 | ☁️ Cloud | Floating clouds |
 
-*(Add your screenshots or a GIF demo here — e.g. `assets/weatherdash-demo.gif`)*
+*('preview.png)*
 
 ---
 
