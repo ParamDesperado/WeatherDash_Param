@@ -27,7 +27,10 @@
 | 🌧️ Rain  | Falling droplets |
 | ☁️ Cloud | Floating clouds |
 
-*('preview.png)*
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73f12df5-bdda-4517-830f-561be9be73d5" width="424" height="572" alt="WeatherDash Preview">
+</p>
+
 
 ---
 
